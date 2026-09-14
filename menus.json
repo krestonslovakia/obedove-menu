@@ -1,28 +1,15 @@
 {
-  "generated": "2026-09-11T14:45:49.523754+02:00",
-  "date": "11.09.2026",
-  "dayName": "Piatok",
+  "generated": "2026-09-14T15:33:34.696966+02:00",
+  "date": "14.09.2026",
+  "dayName": "Pondelok",
   "lunchbreak": {
     "sections": [
-      {
-        "title": "🥣 Polievky",
-        "items": [
-          {
-            "name": "Pórkovo-zemiakový krém, bylinkové krutóny",
-            "price": "v cene menu"
-          },
-          {
-            "name": "Frankfurtská s párkom (-)",
-            "price": "v cene menu"
-          }
-        ]
-      },
       {
         "title": "🍖 Mäsové menu",
         "items": [
           {
-            "name": "B,\n \n15\n0g/200g Grilovaný steak z tuniaka, tartare Beurre Blanc omáčka, šťúchané zemiaky s bylinkami a cottage syrom, šalátik",
-            "price": "10.50 €"
+            "name": "A\n,\n \n140g/200g Vyprážané stripsy, petržlenové zemiaky, coleslaw",
+            "price": "9.50 €"
           }
         ]
       },
@@ -30,17 +17,8 @@
         "title": "🥗 Bezmäsité menu",
         "items": [
           {
-            "name": "C, \n370g Gnocchi s omáčkou z pečenej hokaido tekvice, pošírovaný špenát, šalvia, pečená paprika, stopkový zeler a červená cibuľa, poľníček, parmezán",
+            "name": "C, \n200g/200g Vyprážaný karfiól, petržlenové zemiaky, domáca tatárska omáčka",
             "price": "9.30 €"
-          }
-        ]
-      },
-      {
-        "title": "⭐ Špeciál menu",
-        "items": [
-          {
-            "name": "320g Bread and butter s pošírovanými broskyňami s amaretom zapečené s vanilkovým puddingom, butterscotch omáčka, medové mascarpone",
-            "price": "8.50 €"
           }
         ]
       }
@@ -52,35 +30,35 @@
         "title": "🍽️ Denné menu",
         "items": [
           {
-            "name": "Hovädzí vývar s cestovinou",
+            "name": "Zeleninový vývar s cestovinou",
             "price": "1 €"
           },
           {
-            "name": "Sedliacka polievka",
+            "name": "Šošovicová polievka so zeleninou",
             "price": "1 €"
           },
           {
-            "name": "Vyprážaná kuracia kapsa /4 druhy syra/varené zemiaky, cesnakový dresing",
+            "name": "Kuracie prsia zapekané so šunkou a syrom, 1/2 ryža, 1/2 hranolky",
             "price": "8.40 €"
           },
           {
-            "name": "Bowl kura (jazmínová ryža, zelenina, edamame, mango, sezam, dresing)",
+            "name": "Bowl kura (kuracie kúsky, jazmínová ryža, zelenina, edamame, mango, sezam, dresing)",
             "price": "8.40 €"
           },
           {
-            "name": "Thajské kuracie rezančeky, jazmínová ryža",
+            "name": "Bravčové ragú na Znojemský spôsob, ryža",
             "price": "8.40 €"
           },
           {
-            "name": "Vyprážaný syr , varené zemiaky, tatárska omáčka",
+            "name": "Bravčový Segedínsky guláš, parená knedľa",
             "price": "8.40 €"
           },
           {
-            "name": "Ryžový nákyp s ovocím",
-            "price": "7.90 €"
+            "name": "Vyprážaný karfiol, varené zemiaky, tatárska omáčka",
+            "price": "8.40 €"
           },
           {
-            "name": "Pulled pork, hranolky, cheddarová omáčka",
+            "name": "Kurací Černohorský rezeň, strúhaný syr, zemiaková kaša, kyslá uhorka",
             "price": "8.40 €"
           }
         ]
@@ -89,23 +67,23 @@
         "title": "🌱 Vegánske menu",
         "items": [
           {
-            "name": "Brokolicový krém",
+            "name": "Sedliacka zeleninová polievka",
             "price": "1 €"
           },
           {
-            "name": "Cuketa vyprážaná v kukuričnej strúhanke, hranolky, dresing",
+            "name": "Cícerový Stroganov, slovenská ryža",
             "price": "8.40 €"
           },
           {
-            "name": "Pečené tofu s jablkami, dusená biela kapusta, varené baby zemiaky",
+            "name": "Špagety Bolognese, syr",
             "price": "8.40 €"
           },
           {
-            "name": "Tempeh Segedínsky guláš, knedľa",
+            "name": "Paela (šafránové rizoto), syr, rucola",
             "price": "8.40 €"
           },
           {
-            "name": "Bowl tempeh (jazmínová ryža, zelenina, edamame, mango, sezam, dresing)",
+            "name": "Bowl falafel (jazmínová ryža, zelenina, edamame, mango, sezam, dresing)",
             "price": "8.90 €"
           }
         ]
@@ -118,32 +96,32 @@
         "title": "🍽️ Denné menu",
         "items": [
           {
-            "name": "Hovädzí vývar so zeleninou a rezancami",
-            "price": "0.70€"
-          },
-          {
-            "name": "Držková polievka",
+            "name": "Šošovicová polievka",
             "price": "0.80€"
           },
           {
-            "name": "Pečené kuracie stehno, zeleninová ryža, mix šalátik",
+            "name": "Zeleninová polievka s ovsenými vločkami",
+            "price": "0.70€"
+          },
+          {
+            "name": "Kuracie prsia zapekané s broskyňou a syrom, ryža",
             "price": "8.40€"
           },
           {
-            "name": "Pečené kuracie stehno, čerstvá zelenina",
+            "name": "Kuracie prsia zapekané s broskyňou a syrom, dusená zelenina",
             "price": "8.40€"
           },
           {
-            "name": "Bravčové čevabčiči, horčica, cibuľa, varené zemiaky",
+            "name": "Bravčový rezeň Černohorský, syr, varené zemiaky, uhorka",
             "price": "8.40€"
           },
           {
-            "name": "Vyprážaný pastiersky syr (so šunkou), varené zemiaky, tatarka",
+            "name": "Vyprážaný karfiol, varené zemiaky, tatárska omáčka",
             "price": "8.40€"
           },
           {
-            "name": "Alpská parená knedľa s lekvárom, vanilkový krém, mak",
-            "price": "7.90€"
+            "name": "Zemiakové guľky s marhuľovým džemom, sladká posýpka, maslo",
+            "price": "7.9€"
           }
         ]
       },
@@ -176,7 +154,7 @@
         "title": "🥣 Polievka",
         "items": [
           {
-            "name": "Zeleninový krém",
+            "name": "Hustá paradajková s bazalkou",
             "price": "v cene menu"
           }
         ]
@@ -185,12 +163,25 @@
         "title": "🍽️ Menu",
         "items": [
           {
-            "name": "Bravčové Vindaloo, ryža",
+            "name": "Bravčová panenka na slanine, šampiňónová omáčka, šťuchané zemiaky s jarnou cibuľkou",
             "price": "12,90€"
           },
           {
-            "name": "Pečená buchta so slivkovým džemom, vanilkový krém",
+            "name": "Zelené kari s grilovanou zeleninou a ryžou",
             "price": "10,90€"
+          }
+        ]
+      },
+      {
+        "title": "⭐ Špeciál",
+        "items": [
+          {
+            "name": "Filet zo pstruha dúhového, ragú z beluga šošovice, zaúdený kaleráb, citrónová omáčka",
+            "price": "18,90€"
+          },
+          {
+            "name": "Pečené hovädzie, zemiaková kaša, marinované huby, čučoriedková omáčka",
+            "price": "16,90€"
           }
         ]
       }
