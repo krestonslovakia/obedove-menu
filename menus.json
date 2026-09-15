@@ -1,28 +1,9 @@
 {
-  "generated": "2026-09-14T16:56:37.389235+02:00",
-  "date": "14.09.2026",
-  "dayName": "Pondelok",
+  "generated": "2026-09-15T14:24:18.907049+02:00",
+  "date": "15.09.2026",
+  "dayName": "Utorok",
   "lunchbreak": {
-    "sections": [
-      {
-        "title": "🍖 Mäsové menu",
-        "items": [
-          {
-            "name": "A\n,\n \n140g/200g Vyprážané stripsy, petržlenové zemiaky, coleslaw",
-            "price": "9.50 €"
-          }
-        ]
-      },
-      {
-        "title": "🥗 Bezmäsité menu",
-        "items": [
-          {
-            "name": "C, \n200g/200g Vyprážaný karfiól, petržlenové zemiaky, domáca tatárska omáčka",
-            "price": "9.30 €"
-          }
-        ]
-      }
-    ]
+    "sections": []
   },
   "fp": {
     "sections": [
@@ -30,32 +11,32 @@
         "title": "🍽️ Denné menu",
         "items": [
           {
-            "name": "Zeleninový vývar s cestovinou",
+            "name": "Slepačí vývar s cestovinou",
             "price": "1 €"
           },
           {
-            "name": "Šošovicová polievka so zeleninou",
+            "name": "Krémová tekvicová polievka",
             "price": "1 €"
           },
           {
-            "name": "Kuracie prsia zapekané so šunkou a syrom, 1/2 ryža, 1/2 hranolky",
+            "name": "Vyprážaný kurací Cordon Bleu, varené zemiaky, tatárska omáčka",
             "price": "8.40 €"
           },
           {
-            "name": "Bowl kura (kuracie kúsky, jazmínová ryža, zelenina, edamame, mango, sezam, dresing)",
+            "name": "Bowl losos (grilovaný losos, jazmínová ryža, zelenina, edamame, mango, sezam, dresing)",
+            "price": "10.90 €"
+          },
+          {
+            "name": "Kurací perkelt z vykostených stehien, domáce halušky",
             "price": "8.40 €"
           },
           {
-            "name": "Bravčové ragú na Znojemský spôsob, ryža",
-            "price": "8.40 €"
+            "name": "Hovädzia sviečková na smotane, brusnice, parená knedľa",
+            "price": "9.40 €"
           },
           {
-            "name": "Bravčový Segedínsky guláš, parená knedľa",
-            "price": "8.40 €"
-          },
-          {
-            "name": "Vyprážaný karfiol, varené zemiaky, tatárska omáčka",
-            "price": "8.40 €"
+            "name": "Zemiakové mini placky, bryndza, slaninka, mladá cibuľka",
+            "price": "7.90 €"
           },
           {
             "name": "Kurací Černohorský rezeň, strúhaný syr, zemiaková kaša, kyslá uhorka",
@@ -67,19 +48,19 @@
         "title": "🌱 Vegánske menu",
         "items": [
           {
-            "name": "Sedliacka zeleninová polievka",
+            "name": "Polievka z červenej šošovice",
             "price": "1 €"
           },
           {
-            "name": "Cícerový Stroganov, slovenská ryža",
+            "name": "Francúzske zemiaky, kyslá obloha",
             "price": "8.40 €"
           },
           {
-            "name": "Špagety Bolognese, syr",
+            "name": "Sójové kocky na Bratislavský spôsob, fussili",
             "price": "8.40 €"
           },
           {
-            "name": "Paela (šafránové rizoto), syr, rucola",
+            "name": "Chettinad massala (hubovo – cícerová massala), basmati ryža",
             "price": "8.40 €"
           },
           {
@@ -96,32 +77,32 @@
         "title": "🍽️ Denné menu",
         "items": [
           {
-            "name": "Šošovicová polievka",
-            "price": "0.80€"
-          },
-          {
-            "name": "Zeleninová polievka s ovsenými vločkami",
+            "name": "Slepačí vývar so zeleninou a rezancami",
             "price": "0.70€"
           },
           {
-            "name": "Kuracie prsia zapekané s broskyňou a syrom, ryža",
+            "name": "Banícka polievka (fazuľa, bravčové, zemiaky, zelenina)",
+            "price": "0.90€"
+          },
+          {
+            "name": "Kurací rezeň vyprážaný v syrovom cestíčku, ryža",
             "price": "8.40€"
           },
           {
-            "name": "Kuracie prsia zapekané s broskyňou a syrom, dusená zelenina",
+            "name": "Kurací rezeň vyprážaný v syrovom cestíčku, čerstvá zelenina",
             "price": "8.40€"
           },
           {
-            "name": "Bravčový rezeň Černohorský, syr, varené zemiaky, uhorka",
+            "name": "Bravčové ragú Španielske, tarhoňa",
             "price": "8.40€"
           },
           {
-            "name": "Vyprážaný karfiol, varené zemiaky, tatárska omáčka",
-            "price": "8.40€"
+            "name": "Wrap s kuracími kúskami, chedarom a zeleninou, hranolky, dresing",
+            "price": "8.90€"
           },
           {
-            "name": "Zemiakové guľky s marhuľovým džemom, sladká posýpka, maslo",
-            "price": "7.9€"
+            "name": "Bryndzové pirohy, kyslá smotana, cibuľka, slaninka",
+            "price": "8.40€"
           }
         ]
       },
@@ -154,7 +135,7 @@
         "title": "🥣 Polievka",
         "items": [
           {
-            "name": "Hustá paradajková s bazalkou",
+            "name": "Zelerový krém so smotanou a vyprážanými kaparami",
             "price": "v cene menu"
           }
         ]
@@ -163,25 +144,12 @@
         "title": "🍽️ Menu",
         "items": [
           {
-            "name": "Bravčová panenka na slanine, šampiňónová omáčka, šťuchané zemiaky s jarnou cibuľkou",
+            "name": "Kurací rezeň v panko strúhanke, hranolky, majonéza",
             "price": "12,90€"
           },
           {
-            "name": "Zelené kari s grilovanou zeleninou a ryžou",
+            "name": "Mac&cheese, BBQ omáčka, cibuľka",
             "price": "10,90€"
-          }
-        ]
-      },
-      {
-        "title": "⭐ Špeciál",
-        "items": [
-          {
-            "name": "Filet zo pstruha dúhového, ragú z beluga šošovice, zaúdený kaleráb, citrónová omáčka",
-            "price": "18,90€"
-          },
-          {
-            "name": "Pečené hovädzie, zemiaková kaša, marinované huby, čučoriedková omáčka",
-            "price": "16,90€"
           }
         ]
       }
