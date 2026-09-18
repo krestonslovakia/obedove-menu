@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T14:00:58.786626+02:00",
+  "generated": "2026-09-18T14:53:55.019020+02:00",
   "date": "18.09.2026",
   "dayName": "Piatok",
   "lunchbreak": {
@@ -171,6 +171,29 @@
     ]
   },
   "piknik": {
-    "sections": []
+    "sections": [
+      {
+        "title": "🥣 Polievka",
+        "items": [
+          {
+            "name": "Zeleninový krém",
+            "price": "v cene menu"
+          }
+        ]
+      },
+      {
+        "title": "🍽️ Menu",
+        "items": [
+          {
+            "name": "Kuracie prsia v kokosovo arašídovej omáčke, jasmínová ryža, chrumkavý šalát s farebným sezamom",
+            "price": "12,90€"
+          },
+          {
+            "name": "Domáce zemiakové šúľance s makom, cukrom a voňavým prepáleným maslom",
+            "price": "10,90€"
+          }
+        ]
+      }
+    ]
   }
 }
