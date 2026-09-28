@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T16:51:14.295842+02:00",
+  "generated": "2026-09-28T18:43:35.285887+02:00",
   "date": "28.09.2026",
   "dayName": "Pondelok",
   "lunchbreak": {
@@ -8,7 +8,11 @@
         "title": "🥣 Polievky",
         "items": [
           {
-            "name": "Krém z pečenej mrkvy (-)",
+            "name": "Toskánska paradajková s olivami a čerstvým oreganom (-)",
+            "price": "v cene menu"
+          },
+          {
+            "name": "Hovädzí vývar so zeleninou a pečeňovými haluškami",
             "price": "v cene menu"
           }
         ]
@@ -17,7 +21,7 @@
         "title": "🍖 Mäsové menu",
         "items": [
           {
-            "name": "A\n,\n \n140g/200g Tacos s kuracím mäsom, údeným syrom, marinovanou paprikou a guacamole, zemiakové lupienky, šalátik",
+            "name": "A\n,\n \n140g/200g Morčacie medailóniky v krémovej omáčke z lesných húb, zemiakové pyré, mrkvové špagety s citrónovým tymiánom",
             "price": "9.50 €"
           }
         ]
@@ -26,7 +30,7 @@
         "title": "🥗 Bezmäsité menu",
         "items": [
           {
-            "name": "C, \n180g/200g Čerstvé cestoviny pappardelle s omáčkou z bazalkového pesta so sušenou paradajkou, pečenou paradajkou, grilovanou paprikou a brokolicou, parmezán, rukola",
+            "name": "C, \n370g Tekvicové Arancini -tekvicovo-risottove guľky so sušenou paradajkou a šalviou v strúhanke s parmezánom, omáčka z pečenej papriky a ricotty, rukola",
             "price": "9.30 €"
           }
         ]
