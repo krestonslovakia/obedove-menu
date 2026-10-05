@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T17:28:28.443476+02:00",
+  "generated": "2026-10-05T19:03:08.552451+02:00",
   "date": "05.10.2026",
   "dayName": "Pondelok",
   "lunchbreak": {
@@ -8,11 +8,11 @@
         "title": "🥣 Polievky",
         "items": [
           {
-            "name": "Zeleninový krém, bylinkové krutóny",
+            "name": "Toskánska paradajková s olivami a čerstvým oreganom (-)",
             "price": "v cene menu"
           },
           {
-            "name": "Ukrajinský Boršč z hovädzieho a bravčového mäsa so zeleninou, pelmene, maďarský kváskový chlieb, kyslá smotana (1,7,9) – \npodávané bez dennej polievky",
+            "name": "Hovädzí vývar so zeleninou a pečeňovými haluškami",
             "price": "v cene menu"
           }
         ]
@@ -21,7 +21,7 @@
         "title": "🍖 Mäsové menu",
         "items": [
           {
-            "name": "A\n,\n \n140g/200g Wrap Teriyaki – kuracie marinované v teriyaki omáčke so zeleninou a sézamom v pšeničnej tortille, šalát s mungo klíčkami a pak choi, sweet chiili teriyaiki dip, krevetové lupienky",
+            "name": "A\n,\n \n140g/200g Morčacie medailóniky v krémovej omáčke z lesných húb, zemiakové pyré, mrkvové špagety s citrónovým tymiánom",
             "price": "9.50 €"
           }
         ]
@@ -30,7 +30,7 @@
         "title": "🥗 Bezmäsité menu",
         "items": [
           {
-            "name": "C, \n180g/200g Pečený baklažán plnený rattauille zeleninou zapečený s mozzarelou, baby zemiaky s bylinkovým maslom, šalátik s citrónovou viniagrette",
+            "name": "C, \n370g Tekvicové Arancini -tekvicovo-risottove guľky so sušenou paradajkou a šalviou v strúhanke s parmezánom, omáčka z pečenej papriky a ricotty, rukola",
             "price": "9.30 €"
           }
         ]
