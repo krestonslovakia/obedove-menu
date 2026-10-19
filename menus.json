@@ -1,22 +1,14 @@
 {
-  "generated": "2026-10-16T15:09:33.462466+02:00",
-  "date": "16.10.2026",
-  "dayName": "Piatok",
+  "generated": "2026-10-19T16:15:08.769396+02:00",
+  "date": "19.10.2026",
+  "dayName": "Pondelok",
   "lunchbreak": {
     "sections": [
       {
         "title": "🥣 Polievky",
         "items": [
           {
-            "name": "Zemiaková s pečenou klobásou (-)",
-            "price": "v cene menu"
-          },
-          {
-            "name": "Zeleninová s quinoa a cícerom",
-            "price": "v cene menu"
-          },
-          {
-            "name": "Poľovnícky guláš z daniela s maďarským kváskovým chlebom (1) – podávané bez dennej polievky",
+            "name": "Mrkvový krém so zázvorom (-)",
             "price": "v cene menu"
           }
         ]
@@ -25,8 +17,8 @@
         "title": "🍖 Mäsové menu",
         "items": [
           {
-            "name": "B,\n \n15\n0g/200g Duo ryby – grilovaný steak z lososa a grilovaná maslová ryba s bylinkovou krustou, karfiólové pyré, holandská omáčka s bylinkami , šalátik",
-            "price": "10.50 €"
+            "name": "A\n,\n \n140g/200g Kuracie špízy v teriyaki marináde, yakisoba omáčka, pražená zeleninová ryža, šalát s klíčkami",
+            "price": "9.50 €"
           }
         ]
       },
@@ -34,17 +26,8 @@
         "title": "🥗 Bezmäsité menu",
         "items": [
           {
-            "name": "C, \n180g/200g Thajské červené curry so zeleninou a tofu, jazmínová ryža, klíčky, pak choi",
+            "name": "C, \n180g/200g Gnocchi s omáčkou z hokaido tekvice, pečená maslová tekvica, tekvicový olej, baby špenát",
             "price": "9.30 €"
-          }
-        ]
-      },
-      {
-        "title": "⭐ Špeciál menu",
-        "items": [
-          {
-            "name": "320g Lievance s pečenými jablkami a orechmi, vanilkový krém, gaštanové mascarpone, posýpka z pečených gaštanov",
-            "price": "8.90 €"
           }
         ]
       }
@@ -56,35 +39,35 @@
         "title": "🍽️ Denné menu",
         "items": [
           {
-            "name": "Slepačí vývar s mäsom a cestovinou",
+            "name": "Francúzska cibuľačka",
             "price": "1 €"
           },
           {
-            "name": "Zemiaková polievka so zeleninou    1,9",
+            "name": "Zeleninová polievka s cestovinou",
             "price": "1 €"
           },
           {
-            "name": "Kuracie soté Mexiko, zemiaková placka, strúhaný syr",
+            "name": "Kuracie prsia zapekané so syrom a paradajkou, prírodná omáčka, ryža",
             "price": "8.40 €"
           },
           {
-            "name": "Bowl kura (jazmínová ryža, zelenina, edamame, mango, sezam, dresing)",
+            "name": "Bowl kura (kuracie kúsky, jazmínová ryža, zelenina, edamame, mango, sezam, dresing)",
             "price": "8.40 €"
           },
           {
-            "name": "Vyprážaná plnená bravčová kapsa (4 druhy syra), zemiaková kaša, Coleslaw",
+            "name": "Parížsky kurací rezeň, zemiaková kaša, kapustový šalát",
             "price": "8.40 €"
           },
           {
-            "name": "Vyprážaný údený syr, hranolky, kečup, tatárska omáčka",
+            "name": "Bravčový katov šleh, zemiakové mini placky",
             "price": "8.40 €"
           },
           {
-            "name": "Domáce šišky s džemom",
-            "price": "7.90 €"
+            "name": "Fish and chips, dresing",
+            "price": "8.40 €"
           },
           {
-            "name": "Černohorský kurací rezeň, strúhaný syr, zemiakové pyré",
+            "name": "Pulled pork, cheddarová omáčka, steakové hranolky",
             "price": "8.90 €"
           }
         ]
@@ -93,23 +76,23 @@
         "title": "🌱 Vegánske menu",
         "items": [
           {
-            "name": "Hŕstková polievka 1",
+            "name": "Šampiňónová polievka so zemiakmi",
             "price": "1 €"
           },
           {
-            "name": "Sójový moravský vrabec, dusená červená kapusta, knedľa",
+            "name": "Domáce zeleninové lievance, varené baby zemiaky, cesnakový dresing",
             "price": "8.40 €"
           },
           {
-            "name": "Šampiňóny na Burgunský spôsob, basmati ryža",
+            "name": "Pečené klobásové tofu krúžky na kelovom prívarku, varené zemiaky",
             "price": "8.40 €"
           },
           {
-            "name": "Domáce zeleninové karbonátky, zemiakové pyré, šalát",
+            "name": "Robi Černohor, pečené zemiaky, syrový posyp, kyslá uhorka",
             "price": "8.40 €"
           },
           {
-            "name": "Bowl tempeh (jazmínová ryža, zelenina, edamame, mango, sezam, mango, dresing)",
+            "name": "Bowl falafel (jazmínová ryža, zelenina, edamame, mango, sezam, dresing)",
             "price": "8.90 €"
           }
         ]
@@ -122,32 +105,32 @@
         "title": "🍽️ Denné menu",
         "items": [
           {
-            "name": "Slepačí vývar so zeleninou a rezancami",
-            "price": "0.70€"
-          },
-          {
-            "name": "Krémová brokolicová polievka s modrým syrom",
+            "name": "Šošovicová polievka",
             "price": "0.80€"
           },
           {
-            "name": "Grilované BBQ kuracie prsia, kukuricová ryža",
+            "name": "Mrkvová kari polievka s kokosovým mliekom",
+            "price": "0.80€"
+          },
+          {
+            "name": "Kuracie prsia na krémovej šafránovej omáčke, fusilli",
             "price": "8.60€"
           },
           {
-            "name": "Grilované BBQ kuracie prsia, čerstvá zelenina",
+            "name": "Kuracie prsia na krémovej šafránovej omáčke, dusená zelenina",
             "price": "8.60€"
           },
           {
-            "name": "Koložvárska bravčová kapusta, varené zemiaky, kyslá uhorka",
+            "name": "Vyprážaný bravčový Cordon Bleu, dusená ryža, kyslá uhorka",
             "price": "8.40€"
           },
           {
-            "name": "Vyprážaný pastiersky syr (so šunkou), steakové hranolky, tatárska omáčka",
+            "name": "Zemiakové guľky plnené mletým mäsom, dusená kyslá kapusta, cibuľka",
             "price": "8.40€"
           },
           {
-            "name": "Alpská parená buchta s džemom, vanilkový krém, makový posyp",
-            "price": "7.90€"
+            "name": "Tofu pečené v cestíčku, batátové pyré, šalátik",
+            "price": "8.40€"
           }
         ]
       },
@@ -184,7 +167,7 @@
         "title": "🥣 Polievka",
         "items": [
           {
-            "name": "Zeleninový krém",
+            "name": "Karfiolová s hráškom",
             "price": "v cene menu"
           }
         ]
@@ -193,11 +176,11 @@
         "title": "🍽️ Menu",
         "items": [
           {
-            "name": "Loaded fries s trhaným bravčovým mäsom, cheddar, BBQ",
+            "name": "Koložvárska kapusta",
             "price": "12,90€"
           },
           {
-            "name": "Bryndzové halušky",
+            "name": "Špenátový prívarok s vajíčkom a varenými zemiakmi",
             "price": "10,90€"
           }
         ]
