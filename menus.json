@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T14:20:23.558029+02:00",
+  "generated": "2026-10-23T15:17:29.117371+02:00",
   "date": "23.10.2026",
   "dayName": "Piatok",
   "lunchbreak": {
@@ -184,7 +184,7 @@
         "title": "🥣 Polievka",
         "items": [
           {
-            "name": "Zeleninový krém",
+            "name": "Francúzska",
             "price": "v cene menu"
           }
         ]
@@ -193,11 +193,11 @@
         "title": "🍽️ Menu",
         "items": [
           {
-            "name": "Loaded fries s trhaným bravčovým mäsom, cheddar, BBQ",
+            "name": "Kurací \"popcorn\" v sladkokyslej omáčke, ryža, daikon, arašídy",
             "price": "12,90€"
           },
           {
-            "name": "Bryndzové halušky",
+            "name": "Fazuľový guláš jókai",
             "price": "10,90€"
           }
         ]
