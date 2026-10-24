@@ -376,14 +376,24 @@ document.getElementById('todayBadge').textContent = `📅 ${fullDate()}`;
 
 // ── JSON cache (generovaný GitHub Actions každý deň ráno) ────────────────────
 // Stránka ho servíruje zo svojej vlastnej domény → žiadne CORS.
+function isWeekend() {
+    const day = new Date().getDay();
+    return day === 0 || day === 6;
+}
+
 async function loadCachedMenus() {
     try {
         const res = await fetch(`menus.json?t=${Date.now()}`);
         if (!res.ok) return null;
         const data = await res.json();
-        if (data.date && data.date === todayDate()) return data;
-        return null; // zastaralé — spustíme live scraping
+        if (!data || !data.date) return null;
+        data._stale = (data.date !== todayDate());
+        return data;
     } catch { return null; }
+}
+
+function weekendHTML() {
+    return `<div style="padding:20px;text-align:center;color:var(--muted);">Cez vikend restauracie obedove menu neservíruju.</div>`;
 }
 
 function renderCached(el, restaurant) {
@@ -791,6 +801,17 @@ async function fetchAllMenus() {
     btn.disabled = true;
     btn.textContent = '⏳ Načítavam...';
 
+    if (isWeekend()) {
+        ['lb-content','fp-content','fa-content','piknik-content'].forEach(id => {
+            document.getElementById(id).innerHTML = weekendHTML();
+        });
+        await fetchElFuego();
+        document.getElementById('updatedTime').textContent = 'Víkend – žiadne obedové menu';
+        btn.disabled = false;
+        btn.textContent = '🔄 Načítaj všetky menu';
+        return;
+    }
+
     // 1. Skús JSON cache (rýchle, bez proxy)
     const cached = await loadCachedMenus();
 
@@ -801,10 +822,15 @@ async function fetchAllMenus() {
         renderCached(document.getElementById('piknik-content'), cached.piknik);
         await fetchElFuego();
 
-        // Zobraz čas generovania z cache
         const gen = new Date(cached.generated);
-        document.getElementById('updatedTime').textContent =
-            `Načítané z cache: ${String(gen.getHours()).padStart(2,'0')}:${String(gen.getMinutes()).padStart(2,'0')}`;
+        const genTime = `${String(gen.getHours()).padStart(2,'0')}:${String(gen.getMinutes()).padStart(2,'0')}`;
+        if (cached._stale) {
+            document.getElementById('updatedTime').innerHTML =
+                `Upozornenie: Menu zo dna ${cached.date} - dnešné ešte nebolo stiahnuté`;
+            document.getElementById('updatedTime').style.color = '#b86c00';
+        } else {
+            document.getElementById('updatedTime').textContent = `Načítané z cache: ${genTime}`;
+        }
     } else {
         // 2. Záloha: live scraping cez CORS proxy
         await Promise.all([
