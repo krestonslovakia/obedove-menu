@@ -1,16 +1,12 @@
 {
-  "generated": "2026-10-26T16:41:28.477930+01:00",
-  "date": "26.10.2026",
-  "dayName": "Pondelok",
+  "generated": "2026-10-27T15:18:34.977993+01:00",
+  "date": "27.10.2026",
+  "dayName": "Utorok",
   "lunchbreak": {
     "sections": [
       {
         "title": "🥣 Polievky",
         "items": [
-          {
-            "name": "Karfiólový krém so pšenom, krutóny",
-            "price": "v cene menu"
-          },
           {
             "name": "Sviatočná kapustnica s bravčovým mäsom,údeným kolenom,mäsovými guľkami, klobásou a lesnými hubami, maďarský kváskový chlieb, kyslá smotana (1,7) – podávané bez dennej polievky",
             "price": "v cene menu"
@@ -21,7 +17,7 @@
         "title": "🍖 Mäsové menu",
         "items": [
           {
-            "name": "A\n,\n \n160g/200g Kuracie Suwlaki marinované v jogurte a oregáne , hranolky, pita chlieb, šalát z pečenej papriky, paradajok a červenej cibule, dressing tzatziki",
+            "name": "A\n,\n \n140g/200g Kačacie pečienky na červenom víne s hruškami a jablkami, dusená ryža, brusnicové chutney",
             "price": "9.50 €"
           }
         ]
@@ -30,8 +26,8 @@
         "title": "🥗 Bezmäsité menu",
         "items": [
           {
-            "name": "C, \n120g/200g Encián s krustou z pesta zo sušených paradajok a bazalky, varené zemiaky s petržlenovou vňaťou a prepáleným maslom, mix šalát",
-            "price": "9.30 €"
+            "name": "C, \n380g Bryndzové pirohy s krémovou maslovou omáčkou a pažítkou, chrumkavou cibuľkou a slaninou",
+            "price": "9.50 €"
           }
         ]
       }
@@ -43,27 +39,27 @@
         "title": "🍽️ Denné menu",
         "items": [
           {
-            "name": "Zeleninový vývar s cestovinou",
+            "name": "Slepačí vývar s mäsom a niťovkami",
             "price": "1 €"
           },
           {
-            "name": "Hrachová polievka",
+            "name": "Zeleninový boršč",
             "price": "1 €"
           },
           {
-            "name": "Kuracie prsia zapekané so šunkou a syrom, 1/2 ryža, 1/2 hranolky",
+            "name": "Kurací perkelt, domáce halušky",
             "price": "8.40 €"
           },
           {
-            "name": "Bowl kura (kuracie kúsky, jazmínová ryža, zelenina, edamame, mango, sezam, dresing)",
+            "name": "Bowl losos (grilovaný losos, jazmínová ryža, zelenina, edamame, mango, sezam, dresing)",
+            "price": "10.90 €"
+          },
+          {
+            "name": "Bravčová panenka v slaninovom župane,hríbiková omáčka,opekané zemiaky",
             "price": "8.90 €"
           },
           {
-            "name": "Pečená krkovička na cesnaku, dusená červená kapusta, domáca knedľa",
-            "price": "8.40 €"
-          },
-          {
-            "name": "Francúzske zemiaky, kyslá uhorka",
+            "name": "Debrecínsky bravčový guláš, domáca knedľa",
             "price": "8.40 €"
           },
           {
@@ -80,19 +76,19 @@
         "title": "🌱 Vegánske menu",
         "items": [
           {
-            "name": "Kalerábová polievka s mrkvou, cícerom a ligurčekom",
+            "name": "Batátová krémová polievka s kokosovým mliekom",
             "price": "1 €"
           },
           {
-            "name": "Domáce strapačky s tempehom",
+            "name": "Sójový Stroganov, slovenská ryža",
             "price": "8.40 €"
           },
           {
-            "name": "Robi pikantný guláš, domáca knedľa",
+            "name": "Jemne pikantné sójové ragu s čínskou zeleninou, dusená ryža",
             "price": "8.40 €"
           },
           {
-            "name": "Zeleninové rizoto s kari korením a arašidmi, rukola s cherry paradajkami",
+            "name": "Vegan Koložvárska kapusta, Coleslaw šalát",
             "price": "8.40 €"
           },
           {
@@ -109,31 +105,31 @@
         "title": "🍽️ Denné menu",
         "items": [
           {
-            "name": "Fazuľová polievka",
-            "price": "0.80€"
-          },
-          {
-            "name": "Špenátová polievka s vajíčkom",
+            "name": "Slepačí vývar so zeleninou a rezancami",
             "price": "0.70€"
           },
           {
-            "name": "Kuracie ragú na spôsob Španielskeho vtáčika, ryža",
+            "name": "Minestrone",
+            "price": "0.90€"
+          },
+          {
+            "name": "Kurací rezeň vyprážaný v mandľových lupienkoch, ryža",
             "price": "8.60€"
           },
           {
-            "name": "Kuracie ragú na spôsob Španielskeho vtáčika, dusená zelenina",
+            "name": "Kurací rezeň vyprážaný v mandľových lupienkoch, čerstvá zelenina",
             "price": "8.60€"
           },
           {
-            "name": "Bravčové karé s volským okom, prírodná omáčka, pečené zemiaky",
+            "name": "Bravčový perkelt, domáce halušky",
             "price": "8.40€"
           },
           {
-            "name": "Vyprážaný karfiol, varené zemiaky, tatárska omáčka",
-            "price": "8.40€"
+            "name": "Morčacie green curry s brokolicou, jazmmínová ryža",
+            "price": "8.90€"
           },
           {
-            "name": "Zemiakové šúľance s makom, omáčka z lesného ovocia",
+            "name": "Granatiersky pochod, kyslá obloha",
             "price": "7.90€"
           }
         ]
@@ -171,7 +167,7 @@
         "title": "🥣 Polievka",
         "items": [
           {
-            "name": "Paradajková s bazalkovým olejom",
+            "name": "Kulajda",
             "price": "v cene menu"
           }
         ]
@@ -180,11 +176,11 @@
         "title": "🍽️ Menu",
         "items": [
           {
-            "name": "Kuracie prsia s artičokami a olivami kalamata, pečené zemiaky s pecorinom",
+            "name": "Steak z bravčovej panenky, šťuchané zemiaky na cibuli, omáčka zo zeleného korenia",
             "price": "12,90€"
           },
           {
-            "name": "Beluga šošovica, pečené mrkvy v mede, balkánsky syr, citrónová omáčka",
+            "name": "Zeleninový bulgur s tahini dipom, chilli cícer",
             "price": "10,90€"
           }
         ]
