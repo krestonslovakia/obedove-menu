@@ -1,12 +1,20 @@
 {
-  "generated": "2026-10-27T16:03:21.941906+01:00",
-  "date": "27.10.2026",
-  "dayName": "Utorok",
+  "generated": "2026-10-28T16:00:24.105172+01:00",
+  "date": "28.10.2026",
+  "dayName": "Streda",
   "lunchbreak": {
     "sections": [
       {
         "title": "🥣 Polievky",
         "items": [
+          {
+            "name": "Zeleninový krém",
+            "price": "v cene menu"
+          },
+          {
+            "name": "Slepačí vývar s rezancami a zeleninou",
+            "price": "v cene menu"
+          },
           {
             "name": "Sviatočná kapustnica s bravčovým mäsom,údeným kolenom,mäsovými guľkami, klobásou a lesnými hubami, maďarský kváskový chlieb, kyslá smotana (1,7) – podávané bez dennej polievky",
             "price": "v cene menu"
@@ -17,7 +25,7 @@
         "title": "🍖 Mäsové menu",
         "items": [
           {
-            "name": "A\n,\n \n140g/200g Kačacie pečienky na červenom víne s hruškami a jablkami, dusená ryža, brusnicové chutney",
+            "name": "A\n,\n \n140g/200g Chicken Garam Masala – kuracie prsia s paradajkami a čerstvým koriandrom, ryža basmati, papadam, mätový jogurt",
             "price": "9.50 €"
           }
         ]
@@ -26,8 +34,8 @@
         "title": "🥗 Bezmäsité menu",
         "items": [
           {
-            "name": "C, \n380g Bryndzové pirohy s krémovou maslovou omáčkou a pažítkou, chrumkavou cibuľkou a slaninou",
-            "price": "9.50 €"
+            "name": "C, \n360g Hlivový perkelt s lesnými hubami, domáce bezlepkové špenátové halušky, poľníček",
+            "price": "9.30 €"
           }
         ]
       }
@@ -43,27 +51,27 @@
             "price": "1 €"
           },
           {
-            "name": "Zeleninový boršč",
+            "name": "Minestrone",
             "price": "1 €"
           },
           {
-            "name": "Kurací perkelt, domáce halušky",
+            "name": "Bravčový pivovarnícky rezeň, zemiakové kolieska, francúzsky dresing",
             "price": "8.40 €"
           },
           {
-            "name": "Bowl losos (grilovaný losos, jazmínová ryža, zelenina, edamame, mango, sezam, dresing)",
-            "price": "10.90 €"
-          },
-          {
-            "name": "Bravčová panenka v slaninovom župane,hríbiková omáčka,opekané zemiaky",
+            "name": "Bowl kura (kuracie kúsky, jazmínová ryža, zelenina, edamame, mango, sezam, dresing)",
             "price": "8.90 €"
           },
           {
-            "name": "Debrecínsky bravčový guláš, domáca knedľa",
+            "name": "Hovädzia sviečková, brusnice, domáca knedľa",
+            "price": "9.90 €"
+          },
+          {
+            "name": "Pečené kuracie stehno, 1/2 kačacia plnka, 1/2 ryža, broskyňový kompót",
             "price": "8.40 €"
           },
           {
-            "name": "Vyprážaný karfiol, varené zemiaky, tatárska omáčka",
+            "name": "Bryndzové halušky, oravská slanina",
             "price": "7.90 €"
           },
           {
@@ -76,19 +84,19 @@
         "title": "🌱 Vegánske menu",
         "items": [
           {
-            "name": "Batátová krémová polievka s kokosovým mliekom",
+            "name": "Tom-kha-kai",
             "price": "1 €"
           },
           {
-            "name": "Sójový Stroganov, slovenská ryža",
+            "name": "Syrové duo v bylinkovom cestíčku, steakové hranolky, dip z pečenej papriky",
             "price": "8.40 €"
           },
           {
-            "name": "Jemne pikantné sójové ragu s čínskou zeleninou, dusená ryža",
+            "name": "Jemne pikantné ázijské rezance so zeleninou, tofu, kurkumou a zázvorom",
             "price": "8.40 €"
           },
           {
-            "name": "Vegan Koložvárska kapusta, Coleslaw šalát",
+            "name": "Sójové Chilli sin carne, ryža",
             "price": "8.40 €"
           },
           {
@@ -109,52 +117,27 @@
             "price": "0.70€"
           },
           {
-            "name": "Minestrone",
-            "price": "0.90€"
+            "name": "Hrachová polievka",
+            "price": "0.80€"
           },
           {
-            "name": "Kurací rezeň vyprážaný v mandľových lupienkoch, ryža",
+            "name": "Kuracie ragú Mexiko, kyslá smotana, ryža",
             "price": "8.60€"
           },
           {
-            "name": "Kurací rezeň vyprážaný v mandľových lupienkoch, čerstvá zelenina",
+            "name": "Kuracie ragú Mexiko, kyslá smotana, čerstvá zelenina",
             "price": "8.60€"
           },
           {
-            "name": "Bravčový perkelt, domáce halušky",
+            "name": "Bravčové stehno na kôprovej omáčke, parená knedľa",
             "price": "8.40€"
           },
           {
-            "name": "Morčacie green curry s brokolicou, jazmmínová ryža",
+            "name": "Fish and chips, domáca remuláda",
             "price": "8.90€"
           },
           {
-            "name": "Granatiersky pochod, kyslá obloha",
-            "price": "7.90€"
-          }
-        ]
-      },
-      {
-        "title": "📋 Stála ponuka",
-        "items": [
-          {
-            "name": "Poké Bowl (kurací alebo tofu)",
-            "price": "8.90€"
-          },
-          {
-            "name": "Poké Bowl losos",
-            "price": "10.90€"
-          },
-          {
-            "name": "Vyprážaný syr s hranolkami a domácou tatárskou omáčkou",
-            "price": "7.90€"
-          },
-          {
-            "name": "Vyprážaný kurací rezeň s prílohou podľa želania",
-            "price": "8.40€"
-          },
-          {
-            "name": "Vyprážaný bravčový rezeň s prílohou podľa želania",
+            "name": "Domáce bryndzové halušky, oravská slaninka, pražená cibuľka",
             "price": "8.40€"
           }
         ]
@@ -167,7 +150,7 @@
         "title": "🥣 Polievka",
         "items": [
           {
-            "name": "Kulajda",
+            "name": "Frankfurtská",
             "price": "v cene menu"
           }
         ]
@@ -176,11 +159,11 @@
         "title": "🍽️ Menu",
         "items": [
           {
-            "name": "Steak z bravčovej panenky, šťuchané zemiaky na cibuli, omáčka zo zeleného korenia",
+            "name": "Pečené bravčové plece, kapusta na karameli, karlovarské knedlíky s údeným",
             "price": "12,90€"
           },
           {
-            "name": "Zeleninový bulgur s tahini dipom, chilli cícer",
+            "name": "Šalát s pečenými hubami a kozím syrom",
             "price": "10,90€"
           }
         ]
