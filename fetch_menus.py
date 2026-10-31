@@ -94,23 +94,32 @@ def parse_lunch_break(html: str) -> list:
     pending_name = None
 
     for p in toggle_content.select("p"):
-        text = p.get_text(separator="\n").strip()
+        # Web delí text aj ceny do viacerých <span> ("10,9" + "0 €"),
+        # preto spájame bez oddeľovača a nové riadky berieme len z <br>.
+        for br in p.find_all("br"):
+            br.replace_with("\n")
+        text = p.get_text().replace("\xa0", " ")
+        text = "\n".join(re.sub(r"\s+", " ", l).strip() for l in text.split("\n"))
+        text = text.strip()
         if not text:
             continue
         up = text.upper()
 
-        if "POLIEVKA" in up and "V CENE" not in up:
-            cur = "🥣 Polievky"; pending_name = None; continue
-        if "MÄSOVÉ MENU" in up:
-            cur = "🍖 Mäsové menu"; pending_name = None; continue
-        if "BEZMÄSITÉ MENU" in up:
-            cur = "🥗 Bezmäsité menu"; pending_name = None; continue
-        if up.startswith("ŠPECIÁL") or up.startswith("SPECIAL"):
-            cur = "⭐ Špeciál menu"; pending_name = None; continue
-        if "SLADKÉ MENU" in up or "SLADKE MENU" in up:
-            cur = "⭐ Špeciál menu"; pending_name = None; continue
-        if "V CENE MENU" in up:
-            continue
+        # Hlavičky sekcií sú krátke a písané veľkými písmenami
+        is_header = len(text) < 60 and text == up
+        if is_header:
+            if "V CENE" in up:
+                continue
+            # Špeciál pred polievkou — napr. "ŠPECIÁL MENU – SVIATOČNÁ POLIEVKA"
+            if "ŠPECIÁL" in up or "SPECIÁL" in up or "SPECIAL" in up \
+                    or "SLADKÉ MENU" in up or "SLADKE MENU" in up or "ŠALÁT MENU" in up:
+                cur = "⭐ Špeciál menu"; pending_name = None; continue
+            if "BEZMÄSITÉ MENU" in up:
+                cur = "🥗 Bezmäsité menu"; pending_name = None; continue
+            if "MÄSOVÉ MENU" in up:
+                cur = "🍖 Mäsové menu"; pending_name = None; continue
+            if "POLIEVKA" in up:
+                cur = "🥣 Polievky"; pending_name = None; continue
 
         if not cur:
             continue
@@ -125,7 +134,7 @@ def parse_lunch_break(html: str) -> list:
                 continue
             cleaned = re.sub(r"^\d[,.]?\d*l\s*", "", text, flags=re.IGNORECASE)
             for s in cleaned.split("/"):
-                name = re.sub(r"\s*\(\d[\d,]*\)\s*$", "", s).strip()
+                name = re.sub(r"\s*\((?:\d[\d,]*|-)\)\s*$", "", s).strip()
                 if len(name) > 3:
                     sections[cur].append({"name": name, "price": "v cene menu"})
             continue
