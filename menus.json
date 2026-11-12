@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T17:43:47.946883+01:00",
+  "generated": "2026-11-12T18:15:59.984555+01:00",
   "date": "12.11.2026",
   "dayName": "Štvrtok",
   "lunchbreak": {
@@ -8,11 +8,11 @@
         "title": "🥣 Polievky",
         "items": [
           {
-            "name": "Toskánska paradajková s bazalkou",
+            "name": "Hrachová s údeným mäsom a klobásou",
             "price": "v cene menu"
           },
           {
-            "name": "Zeleninový vývar s koreňovou zeleninou a rezancami",
+            "name": "Zeleninový vývar s rezancami",
             "price": "v cene menu"
           }
         ]
@@ -21,12 +21,12 @@
         "title": "🍖 Mäsové menu",
         "items": [
           {
-            "name": "A, 140g/200g Morčacie Poutine – BBQ morčacie trhané, cheddarová omáčka, hranolky, new york coleslaw",
+            "name": "A, 140g/200g Kurací steak v kruste z citrónového tymiánu, krémové zeleninové rizoto so šampiňónmi, poľníček, parmezán",
             "price": "9.50 €"
           },
           {
-            "name": "B, 130g/200g Pečené marinované líčka a výpečky, kyslá kapusta s karamelizovanou cibuľou, naša knedľa",
-            "price": "9.90 €"
+            "name": "B, 150g/200g Fish & Chips – vyprážaná divoká kanadská šťuka v pivnom cestíčku, hráškovo mätové pyré, hranolky, kaparová remuláda",
+            "price": "10.50 €"
           }
         ]
       },
@@ -34,7 +34,7 @@
         "title": "🥗 Bezmäsité menu",
         "items": [
           {
-            "name": "C, 350g Domáce bryndzové halušky, chrumkavá slaninka, pečená klobáska, jarná cibuľka, pažitka, smažená cibuľka",
+            "name": "C, 380g Melanzane alla parmigiana – Baklažánové lasagne zapekané s paradajkovou omáčkou, mozzarellou a parmezánom, omáčka z bazalkového pesta, rukola",
             "price": "9.50 €"
           }
         ]
@@ -43,8 +43,12 @@
         "title": "⭐ Špeciál menu",
         "items": [
           {
-            "name": "0,6l Poľovnícky kotlíkový guláš z jeleňa a srnca, maďarský kváskový chlieb, chilli, červená cibuľa (1) – podávané bez dennej polievky",
+            "name": "340g Palacinky plnené čučoriedkovo-ricottovou plnkou, horúce lesné ovocie, topping zo slaného karamelu",
             "price": "8.90 €"
+          },
+          {
+            "name": "0,6l Pho Bo – vietnamský hovädzí vývar, hovädzie, krevety, ryžové rezance, klíčky, pak choi, koriander, chilli, limetka (2,4,6,11,14) – podávané bez dennej polievky",
+            "price": "9.50 €"
           }
         ]
       }
