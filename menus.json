@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T19:17:47.609714+01:00",
+  "generated": "2026-11-16T20:07:36.541911+01:00",
   "date": "16.11.2026",
   "dayName": "Pondelok",
   "lunchbreak": {
@@ -8,7 +8,7 @@
         "title": "🥣 Polievky",
         "items": [
           {
-            "name": "Šošovicová na kyslo, kôprový olej",
+            "name": "Zemiakový krém s údenou paprikou",
             "price": "v cene menu"
           },
           {
@@ -21,11 +21,11 @@
         "title": "🍖 Mäsové menu",
         "items": [
           {
-            "name": "A, 140g/200g Kuracia tikka masala v krémovej omáčke s kokosovým mliekom, pilaf basmati ryža s hráškom a jarnou cibuľkou, papadam, čerstvý koriander",
+            "name": "A, 140g/200g Kuracie curry Korma v krémovej omáčke s kešu orechmi a kokosovým mliekom, pečená basmati ryža s hraskom a šampiňónmi, papadam, čerstvý koriander",
             "price": "9.50 €"
           },
           {
-            "name": "B, 130g/200g Texas Quesadilla – BBQ tortilla s hovädzím flankom a trhaným rebierkom, zapečená s cheddarom, americké zemiaky, šalát, dip z pečenej a údenej papriky",
+            "name": "B, 130g/200g Tacos s panenkou v Al Pastor marináde zapečené so syrom, americké zemiaky, šalátik, avokádovo-smotanový dip, pečená kukurica",
             "price": "10.40 €"
           }
         ]
@@ -34,7 +34,7 @@
         "title": "🥗 Bezmäsité menu",
         "items": [
           {
-            "name": "C, 360g Plnené šampiňóny s krémovým syrom, batatové pyré, šalátik s cícerom, fazuľou, kukuricou a bylinkovou viniagrette",
+            "name": "C, 180g/200g Gnocchi s omáčkou z hokaido tekvice, pečená zelenina s tymiánom, tekvicový olej, pražené tekvicové semiačky, baby špenát",
             "price": "9.30 €"
           }
         ]
@@ -43,12 +43,12 @@
         "title": "⭐ Špeciál menu",
         "items": [
           {
-            "name": "600g/500g Svätomartinská Hus XXL – konfitované husacie stehno, dusená červená a biela kapusta, lokše, viedenská knedľa s kačacími pečienkami, pečené jablko",
-            "price": "16.90 €"
+            "name": "450g Koložvárska kapusta s hovädzím a bravčovým mäsom zapečená s krustou z kyslej smotany",
+            "price": "9.90 €"
           },
           {
-            "name": "0,6l Poľovnícky kotlíkový guláš z jeleňa a srnca, maďarský kváskový chlieb, chilli, červená cibuľa (1) – podávané bez dennej polievky",
-            "price": "8.90 €"
+            "name": "0,6l Fazuľová Jokai s údeným kolenom, bravčovým mäsom, klobásou a bôbovou fazuľou, domáce rezance, kváskový chlieb, kyslá smotana (1,7) – podávané bez dennej polievky",
+            "price": "9.50 €"
           }
         ]
       }
