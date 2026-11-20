@@ -1,58 +1,9 @@
 {
-  "generated": "2026-11-20T17:53:13.439104+01:00",
+  "generated": "2026-11-20T18:27:05.684911+01:00",
   "date": "20.11.2026",
   "dayName": "Piatok",
   "lunchbreak": {
-    "sections": [
-      {
-        "title": "🥣 Polievky",
-        "items": [
-          {
-            "name": "Gulášová s bravčovým mäsom",
-            "price": "v cene menu"
-          },
-          {
-            "name": "Zeleninová tom yum s kokosovým mliekom a tofu",
-            "price": "v cene menu"
-          }
-        ]
-      },
-      {
-        "title": "🍖 Mäsové menu",
-        "items": [
-          {
-            "name": "A, 140g/200g Kuracie rezníky v cornflakesoch, zemiakové pyré, broskyňový kompótik",
-            "price": "9.50 €"
-          },
-          {
-            "name": "B, 150g/200g Grilovaný steak z tuniaka s bylinkovou krustou, bearnaise omáčka, pečené baby zemiaky s rozmarínom, šalátik s červenou reďkovkou a citrónovym dressingom",
-            "price": "10.50 €"
-          }
-        ]
-      },
-      {
-        "title": "🥗 Bezmäsité menu",
-        "items": [
-          {
-            "name": "C, 180g/200g Batatovo-cuketová tikka masala s pečeným karfiólom, divoká ryža, papadam",
-            "price": "9.30 €"
-          }
-        ]
-      },
-      {
-        "title": "⭐ Špeciál menu",
-        "items": [
-          {
-            "name": "340g Domáce zemiakové šúlance plnené makom, vanilková omáčka flambovaná s rumom Diplomatico, višňový rozvar, šlahačka Chantilly",
-            "price": "8.90 €"
-          },
-          {
-            "name": "450g Koložvárska kapusta s hovädzím a bravčovým mäsom zapečená s krustou z kyslej smotany",
-            "price": "9.90 €"
-          }
-        ]
-      }
-    ]
+    "sections": []
   },
   "fp": {
     "sections": [
