@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T19:35:19.668845+01:00",
+  "generated": "2026-11-25T19:55:12.787909+01:00",
   "date": "25.11.2026",
   "dayName": "Streda",
   "lunchbreak": {
@@ -55,10 +55,107 @@
     ]
   },
   "fp": {
-    "error": true
+    "sections": [
+      {
+        "title": "🍽️ Denné menu",
+        "items": [
+          {
+            "name": "Slepačí vývar s cestovinou",
+            "price": "1 €"
+          },
+          {
+            "name": "Karfiolová polievka s haluškami",
+            "price": "1 €"
+          },
+          {
+            "name": "Grilované kuracie stehno, plnka z kačacej pečienky, ryža, kompót",
+            "price": "8.40 €"
+          },
+          {
+            "name": "Bowl kura (kuracie kúsky, jazmínová ryža, zelenina, edamame, mango, sezam, dresing)",
+            "price": "8.90 €"
+          },
+          {
+            "name": "Kurací Černohorský rezeň, strúhaný syr, zemiakové pyré, kyslá uhorka",
+            "price": "8.40 €"
+          },
+          {
+            "name": "Bravčové na spôsob Viedenskej roštenky, pražená cibuľka, dusená ryža",
+            "price": "8.40 €"
+          },
+          {
+            "name": "Fish and chips, dresing",
+            "price": "8.40 €"
+          },
+          {
+            "name": "Bravčové thrhané, chedarová omáčka, steakové hranolky",
+            "price": "8.90 €"
+          }
+        ]
+      },
+      {
+        "title": "🌱 Vegánske menu",
+        "items": [
+          {
+            "name": "Tekvicová krémová polievka s tekvicovými semiačkami",
+            "price": "1 €"
+          },
+          {
+            "name": "Vyprážaný syr, steakové hranolky, tatárska omáčka",
+            "price": "8.40 €"
+          },
+          {
+            "name": "Lečo s vegan párkom, varené zemiaky",
+            "price": "8.40 €"
+          },
+          {
+            "name": "Garden penne (paradajková omáčka, špenát, brokolica, sušené paradajky)",
+            "price": "8.40 €"
+          },
+          {
+            "name": "Bowl falafel (jazmínová ryža, zelenina, edamame, mango, sezam, dresing)",
+            "price": "8.90 €"
+          }
+        ]
+      }
+    ]
   },
   "fa": {
-    "error": true
+    "sections": [
+      {
+        "title": "🍽️ Denné menu",
+        "items": [
+          {
+            "name": "Slepačí vývar so zeleninou a rezancami",
+            "price": "0.70€"
+          },
+          {
+            "name": "Kapustová polievka so zemiakmi",
+            "price": "0.80€"
+          },
+          {
+            "name": "Kurací steak, krémová omáčka s dijónskej horčice, ryža",
+            "price": "8.60€"
+          },
+          {
+            "name": "Kurací steak, krémová omáčka s dijónskej horčice, čerstvá zelenina",
+            "price": "8.60€"
+          },
+          {
+            "name": "Mletý holandský bravčový rezeň, zemiakové pyré, uhorka",
+            "price": "8.40€"
+          },
+          {
+            "name": "Bravčové líčka na červenom víne, pučené zemiaky",
+            "price": "9.40€"
+          },
+          {
+            "name": "Domáce penne s lososovým krémom, kapary, rukola",
+            "price": "8.90€"
+          }
+        ]
+      }
+    ]
   },
   "piknik": {
     "sections": []
